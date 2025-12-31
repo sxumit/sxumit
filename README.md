@@ -10,11 +10,6 @@
 ## 🚀 What I'm Working On
 - Strengthening skills in **Programming & DSA**
 - Exploring how real-world projects are built
-- Learning **Python** for data analysis and problem-solving
-
----
-
-## 🛠️ Tools & Technologies
 - **Languages:** Python, C, C++, JS 
 - **Learning Areas:** Data Structures, DBMS, Web development
 
@@ -25,5 +20,3 @@
 - **Email:** sumitmaurya746@gmail.com
 
 ---
-
-⭐ *Always open to learning, collaborating, and improving step by step.*
