@@ -9,7 +9,7 @@
 ## 🚀 What I'm Working On
 - Strengthening skills in **Programming & DSA**
 - Exploring how real-world projects are built
-- **Languages:** Python, C, C++, HTML, CSS, JS 
+- **Languages:** Python, C, C++, MySQL, HTML, CSS, JS 
 - **Learning Areas:** Data Structures, DBMS, Web development
 
 ---
