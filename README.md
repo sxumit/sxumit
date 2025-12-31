@@ -11,7 +11,6 @@
 - Strengthening skills in **Programming & DSA**
 - Exploring how real-world projects are built
 - Learning **Python** for data analysis and problem-solving
-- Improving my workflow with **Git & GitHub**
 
 ---
 
