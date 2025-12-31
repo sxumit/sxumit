@@ -1,16 +1,32 @@
 ## Hi there 👋
+## I'm Sumit Maurya
 
-<!--
-**sxumit/sxumit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science (Data Science) student  
+📍 Greater Noida, India  
+💻 Currently learning and building my foundations in software development and data science
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+- Strengthening skills in **Programming & DSA**
+- Exploring how real-world projects are built
+- Learning **Python** for data analysis and problem-solving
+- Improving my workflow with **Git & GitHub**
+
+---
+
+## 🛠️ Tools & Technologies
+- **Languages:** Python, C, C++, JS 
+- **Learning Areas:** Data Structures, DBMS, Web development
+
+---
+
+## 📫 How to Reach Me
+- **GitHub:** https://github.com/<your-username>
+- **LinkedIn:** https://www.linkedin.com/in/sxumit/
+- **Email:** sumitmaurya746@gmail.com
+
+---
+
+⭐ *Always open to learning, collaborating, and improving step by step.*
+
