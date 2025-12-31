@@ -21,11 +21,9 @@
 ---
 
 ## 📫 How to Reach Me
-- **GitHub:** https://github.com/<your-username>
 - **LinkedIn:** https://www.linkedin.com/in/sxumit/
 - **Email:** sumitmaurya746@gmail.com
 
 ---
 
 ⭐ *Always open to learning, collaborating, and improving step by step.*
-
