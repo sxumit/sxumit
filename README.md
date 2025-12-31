@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Sumit Maurya
+## Hi there, I'm Sumit Maurya
 
 🎓 B.Tech Computer Science (Data Science) student  
 📍 Greater Noida, India  
