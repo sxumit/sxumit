@@ -15,5 +15,5 @@
 ---
 
 ## 📫 How to Reach Me
-- **LinkedIn:** https://www.linkedin.com/in/sxumit/
+- **LinkedIn:** https://www.linkedin.com/in/sxumit
 - **Email:** sumitmaurya746@gmail.com
