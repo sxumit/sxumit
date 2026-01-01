@@ -1,6 +1,6 @@
 ## Hi there, I'm Sumit Maurya
 
-🎓 B.Tech Computer Science (Data Science) student  
+🎓 B.Tech Computer Science student  
 📍 Greater Noida, India  
 💻 Currently learning and building my foundations in software development and data science
 
