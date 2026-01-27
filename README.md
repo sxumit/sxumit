@@ -9,7 +9,7 @@
 ## 🚀 What I'm Working On
 - Strengthening skills in **Programming & DSA**
 - Exploring how real-world projects are built
-- **Languages:** Python, C, C++, MySQL,MongoDB JS (Nodejs, Reactjs)
+- **Languages:** Python, C, C++, MySQL, MongoDB, JS (Nodejs, Reactjs)
 - **Learning Areas:** Data Structures, DBMS, Web development
 
 ---
