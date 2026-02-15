@@ -1,6 +1,6 @@
 ## Hi there, I'm Sumit Maurya
 
-🎓 B.Tech Computer Science student  
+🎓 3rd Year B.Tech Computer Science student  
 📍 Greater Noida, India  
 💻 Currently learning and building my foundations in Embedded Systems and software development
 
