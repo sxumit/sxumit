@@ -2,7 +2,7 @@
 
 🎓 B.Tech Computer Science student  
 📍 Greater Noida, India  
-💻 Currently learning and building my foundations in software development
+💻 Currently learning and building my foundations in Embedded Systems and software development
 
 ---
 
