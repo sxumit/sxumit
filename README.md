@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 What I'm Working On
-- Strengthening skills in **Programming & DSA**
+- Strengthening skills in **Programming and Embedded Software**
 - Exploring how real-world projects are built
 - **Languages:** Python, C, C++, JS (Nodejs, Reactjs)
 - **Databases:**  MySQL, MongoDB
