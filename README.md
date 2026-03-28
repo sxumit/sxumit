@@ -9,12 +9,12 @@
 ## 🚀 What I'm Working On
 - Strengthening skills in **Programming and Embedded Software**
 - Exploring how real-world projects are built
-- **Languages:** Python, C, C++, JS (Nodejs, Reactjs)
+- **Languages:** C, C++, Python, JS (Nodejs, Reactjs)
 - **Databases:**  MySQL, MongoDB
-- **Learning Areas:** Embedded Systems, Data Structures, DBMS, Web development
+- **Learning Areas:** Embedded Systems, Web development
 
 ---
 
 ## 📫 How to Reach Me
 - **LinkedIn:** https://www.linkedin.com/in/sxumit
-- **Email:** sumitmaurya746t@gmail.com
+- **Email:** sumitmaurya746@gmail.com
