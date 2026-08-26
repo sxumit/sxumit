@@ -13,7 +13,7 @@
 - **Embedded & RTOS:** Zephyr RTOS, FreeRTOS, ARM Cortex-M Architecture
 - **Tools & Emulators:** CMake, West, MSYS2, QEMU
 - **Databases:**  MySQL, MongoDB
-- **Learning Areas:** Embedded Systems, Web development
+- **Learning Areas:** Embedded Software Engineering, AI & Machine Learning
 
 ---
 
