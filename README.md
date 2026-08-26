@@ -9,7 +9,7 @@
 ## 🚀 What I'm Working On
 - Strengthening skills in **Programming and Embedded Software**
 - Building real-time applications and exploring hardware-software interaction
-- **Languages:** C, C++, Python, JS (Nodejs, Reactjs)
+- **Languages:** C, C++, Python(Flask, Django, PyTorch, NumPy, Pandas), JS (Nodejs, Reactjs)
 - **Embedded & RTOS:** Zephyr RTOS, FreeRTOS, ARM Cortex-M Architecture
 - **Tools & Emulators:** CMake, West, MSYS2, QEMU
 - **Databases:**  MySQL, MongoDB
