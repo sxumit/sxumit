@@ -2,7 +2,7 @@
 
 🎓 Final Year B.Tech Computer Science student  
 📍 Greater Noida, India  
-💻 Currently learning and building my foundations in Embedded Systems and software development
+💻 Currently learning and building my foundations in Cyber Physical Systems, Embedded Systems and Software development
 
 ---
 
